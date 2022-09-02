@@ -1,0 +1,28 @@
+
+[
+    {   
+        "id":"01",
+        "name":"John",
+        "gender":"male",
+        "address":"Bangladesh",
+        "contact":"john@gmail.com",
+        "photoUrl":"https://i.ibb.co/NWJpxyJ/player-3.png"
+    },
+    {   
+        "id":"02",
+        "name":"Robert",
+        "gender":"male",
+        "address":"canada",
+        "contact":"robert@gmail.com",
+        "photoUrl":"https://i.ibb.co/FzNRdB7/player-4.png"
+    },
+    {   
+        "id":"03",
+        "name":"Simon",
+        "gender":"male",
+        "address":"Usa",
+        "contact":"simon@gmail.com",
+        "photoUrl":"https://i.ibb.co/LCFhKYm/player-1.png"
+    }
+
+]
